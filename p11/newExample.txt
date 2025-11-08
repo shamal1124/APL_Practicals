@@ -1,0 +1,2 @@
+Hello! This is a Node.js File System demo.
+Appended line: Learning Node.js is fun!
